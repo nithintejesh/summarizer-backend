@@ -74,7 +74,7 @@ MIDDLEWARE = [
 # ]
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    'https://conciseai.vercel.app/'
+    'https://conciseai.vercel.app'
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
