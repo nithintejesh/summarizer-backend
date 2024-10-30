@@ -3,3 +3,6 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 nltk==3.8.1
 lxml==4.9.2
+djangorestframework==3.14.0
+pymupdf==1.21.1 
+django-cors-headers==3.14.0 
